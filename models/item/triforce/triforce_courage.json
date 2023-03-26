@@ -1,0 +1,30 @@
+
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nbc/other/triforce"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 70, 0, 0 ],
+      "translation": [ 0, 2, 3 ],
+      "scale": [ 0.2, 0.2, 0.2 ]
+    },
+    "fixed": {
+      "rotation": [ -90, 0, 0 ],
+      "translation": [ 22, 0, -52 ],
+      "scale": [ 1.7, 1.7, 1.7 ]
+    },
+    "ground": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 10, 0 ],
+      "scale": [ 0.7, 0.7, 0.7 ]	  
+	  
+    },	
+    "firstperson_lefthand": {
+      "rotation": [ 0, -135, 25 ],
+      "translation": [ 0, 4, 2 ],
+      "scale": [ 1.7, 1.7, 1.7 ]
+    }
+  }
+}

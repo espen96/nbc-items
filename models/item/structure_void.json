@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/structure_void"
+	},
+	"overrides": [
+
+		{ "predicate": {"custom_model_data":1}, "model": "guis/upper_section"},
+		{ "predicate": {"custom_model_data":2}, "model": "guis/class"},
+		{ "predicate": {"custom_model_data":3}, "model": "guis/skills"},
+		{ "predicate": {"custom_model_data":4}, "model": "bokoblin"},
+		{ "predicate": {"custom_model_data":5}, "model": "wizzrobe"}
+		
+	]
+}

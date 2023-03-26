@@ -1,0 +1,77 @@
+{
+   "littleroom.magnus.death":{
+		 "sounds": [
+			"littleroom/magnus/death"
+		 ]
+	},
+   "littleroom.magnus.death_stab":{
+		 "sounds": [
+			"littleroom/magnus/death_stab"
+		 ]
+	},
+   "littleroom.magnus.land":{
+		 "sounds": [
+			"littleroom/magnus/land"
+		 ]
+	},
+   "littleroom.magnus.shield_bash":{
+		 "sounds": [
+			"littleroom/magnus/shield_bash"
+		 ]
+	},
+   "littleroom.magnus.shield_down":{
+		 "sounds": [
+			"littleroom/magnus/shield_down"
+		 ]
+	},
+   "littleroom.magnus.shield_impact":{
+		 "sounds": [
+			"littleroom/magnus/shield_impact"
+		 ]
+	},
+   "littleroom.magnus.shield_up":{
+		 "sounds": [
+			"littleroom/magnus/shield_up"
+		 ]
+	},
+   "littleroom.magnus.spawn":{
+		 "sounds": [
+			"littleroom/magnus/spawn"
+		 ]
+	},
+   "littleroom.magnus.spin_loop":{
+		 "sounds": [
+			"littleroom/magnus/spin_loop"
+		 ]
+	},
+   "littleroom.magnus.spin_start":{
+		 "sounds": [
+			"littleroom/magnus/spin_start"
+		 ]
+	},
+   "littleroom.magnus.sweep":{
+		 "sounds": [
+			"littleroom/magnus/sweep"
+		 ]
+	},
+   "littleroom.magnus.tombstone":{
+		 "sounds": [
+			"littleroom/magnus/tombstone"
+		 ]
+	},
+   "littleroom.magnus.jump":{
+		 "sounds": [
+			"littleroom/magnus/jump"
+		 ]
+	},
+   "littleroom.magnus.bonfire_lit":{
+		 "sounds": [
+			"littleroom/magnus/bonfire_lit"
+		 ]
+	},
+   "littleroom.magnus.dizzy":{
+		 "sounds": [
+			"littleroom/magnus/dizzy"
+		 ]
+	}
+}

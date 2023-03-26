@@ -1,0 +1,87 @@
+{
+   "littleroom.koboldassassin.impact1":{
+		 "sounds": [
+			"littleroom/koboldassassin/impact1"
+		 ]
+	},
+   "littleroom.koboldassassin.impact2":{
+		 "sounds": [
+			"littleroom/koboldassassin/impact2"
+		 ]
+	},
+   "littleroom.koboldassassin.impact3":{
+		 "sounds": [
+			"littleroom/koboldassassin/impact3"
+		 ]
+	},
+   "littleroom.koboldassassin.impact4":{
+		 "sounds": [
+			"littleroom/koboldassassin/impact4"
+		 ]
+	},
+   "littleroom.koboldassassin.jump":{
+		 "sounds": [
+			"littleroom/koboldassassin/jump"
+		 ]
+	},
+   "littleroom.koboldassassin.roll":{
+		 "sounds": [
+			"littleroom/koboldassassin/roll"
+		 ]
+	},
+   "littleroom.koboldassassin.swing1":{
+		 "sounds": [
+			"littleroom/koboldassassin/swing1"
+		 ]
+	},
+   "littleroom.koboldassassin.swing2":{
+		 "sounds": [
+			"littleroom/koboldassassin/swing2"
+		 ]
+	},
+   "littleroom.koboldassassin.swing3":{
+		 "sounds": [
+			"littleroom/koboldassassin/swing3"
+		 ]
+	},
+   "littleroom.koboldassassin.swing4":{
+		 "sounds": [
+			"littleroom/koboldassassin/swing4"
+		 ]
+	},
+   "littleroom.koboldassassin.swing5":{
+		 "sounds": [
+			"littleroom/koboldassassin/swing5"
+		 ]
+	},
+   "littleroom.koboldassassin.land1":{
+		 "sounds": [
+			"littleroom/koboldassassin/land1"
+		 ]
+	},
+   "littleroom.koboldassassin.land2":{
+		 "sounds": [
+			"littleroom/koboldassassin/land2"
+		 ]
+	},
+   "littleroom.koboldassassin.land3":{
+		 "sounds": [
+			"littleroom/koboldassassin/land3"
+		 ]
+	},
+   "littleroom.koboldassassin.death":{
+		 "sounds": [
+			"littleroom/koboldassassin/death"
+		 ]
+	},
+   "littleroom.koboldassassin.poof":{
+		 "sounds": [
+			"littleroom/koboldassassin/poof"
+		 ]
+	},
+   "littleroom.koboldassassin.trap":{
+		 "sounds": [
+			"littleroom/koboldassassin/trap"
+		 ]
+	}
+}

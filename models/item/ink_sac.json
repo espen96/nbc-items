@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ink_sac"
+  },
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "littleroom_bugpack:petnet_red"},
+		{"predicate": {"custom_model_data":2}, "model": "littleroom_bugpack:ant"},
+		{"predicate": {"custom_model_data":3}, "model": "littleroom_bugpack:butterfly_blue"},
+		{"predicate": {"custom_model_data":4}, "model": "littleroom_bugpack:butterfly_indigo"},
+		{"predicate": {"custom_model_data":5}, "model": "littleroom_bugpack:butterfly_red"},
+		{"predicate": {"custom_model_data":6}, "model": "littleroom_bugpack:butterfly_violet"},
+		{"predicate": {"custom_model_data":7}, "model": "littleroom_bugpack:butterfly_white"},
+		{"predicate": {"custom_model_data":8}, "model": "littleroom_bugpack:butterfly_yellow"},
+		{"predicate": {"custom_model_data":9}, "model": "littleroom_bugpack:praying_mantis"},
+		{"predicate": {"custom_model_data":10}, "model": "littleroom_bugpack:firefly"},
+		{"predicate": {"custom_model_data":11}, "model": "littleroom_bugpack:dung_beetle"},
+		{"predicate": {"custom_model_data":12}, "model": "littleroom_bugpack:snail"},
+		{"predicate": {"custom_model_data":13}, "model": "littleroom_bugpack:ladybug"},
+		{"predicate": {"custom_model_data":14}, "model": "littleroom_bugpack:moth_atlas"},
+		{"predicate": {"custom_model_data":15}, "model": "littleroom_bugpack:tarantula"}
+        ]
+}

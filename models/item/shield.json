@@ -1,0 +1,70 @@
+{
+    "parent": "builtin/entity",
+    "textures": {
+        "particle": "block/dark_oak_planks"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, -4 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, 12 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ -10, 2, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ 10, 0, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "gui": {
+            "rotation": [ 15, -25, -5 ],
+            "translation": [ 2, 3, 0 ],
+            "scale": [ 0.65, 0.65, 0.65 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -2, 4, -5],
+            "scale":[ 0.5, 0.5, 0.5]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4, 4, 2],
+            "scale":[ 0.25, 0.25, 0.25]
+        }
+    },
+    "overrides": [
+        { "predicate": { "blocking": 1 }, "model": "item/shield_blocking" },
+		{ "predicate": {"custom_model_data":1}, "model":"item/shield/shield"},
+		{ "predicate": {"custom_model_data":2}, "model":"item/shield/traveler"},
+		{ "predicate": {"custom_model_data":3}, "model":"item/shield/hunter"},	
+        { "predicate": {"custom_model_data":4}, "model":"item/shield/fish"},	
+		{ "predicate": {"custom_model_data":5}, "model":"item/shield/gerudo"},
+		{ "predicate": {"custom_model_data":6}, "model":"item/shield/daybreaker"},
+		{ "predicate": {"custom_model_data":7}, "model":"item/shield/wood"},
+		{ "predicate": {"custom_model_data":8}, "model":"item/shield/iron"},
+		{ "predicate": {"custom_model_data":9}, "model":"item/shield/hero"},
+		{ "predicate": {"custom_model_data":10}, "model":"item/shield/hero1"},
+		{ "predicate": {"custom_model_data":11}, "model":"item/shield/deer"},
+		{ "predicate": {"custom_model_data":12}, "model":"item/shield/hyliean"},
+		{ "predicate": {"custom_model_data":12, "blocking":1}, "model":"item/shield/hyliean_blocking"},
+		{ "predicate": {"custom_model_data":13}, "model":"item/shield/mirrorshield"},
+	    { "predicate": {"custom_model_data":13, "blocking":1}, "model":"item/shield/mirrorshield_blocking"},
+		{"predicate": {"custom_model_data":14}, "model": "littleroom_magnus:magnus_shield"},
+        {"predicate": {"custom_model_data":14,  "blocking": 1}, "model": "littleroom_magnus:magnus_shield_blocking"},
+		{ "predicate": {"custom_model_data":15}, "model":"item/shield/alttp1"},
+		{ "predicate": {"custom_model_data":15}, "model":"item/shield/alttp1block"},
+		{ "predicate": {"custom_model_data":16}, "model":"item/shield/alttp2"},
+		{ "predicate": {"custom_model_data":16}, "model":"item/shield/alttp2block"},
+		{ "predicate": {"custom_model_data":17}, "model":"item/shield/alttp3"},
+		{ "predicate": {"custom_model_data":17}, "model":"item/shield/alttp3block"}
+
+    ]
+}
