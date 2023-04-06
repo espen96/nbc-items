@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"hero": "nbc/shield/hero2",
+		"hero": "item/nbc/shield/hero2",
 		"particle": "items/particle"
 	},
 	"elements": [

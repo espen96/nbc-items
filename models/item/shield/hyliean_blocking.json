@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"voxels_palette": "nbc/shield/hyliean-1",
-		"texture": "nbc/shield/hyliean-2"
+		"voxels_palette": "item/nbc/shield/hyliean-1",
+		"texture": "item/nbc/shield/hyliean-2"
 	},
 	"elements": [
 		{
