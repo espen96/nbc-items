@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"shield": "item/nbc/shield/1shield",
-		"shield_back": "item/nbc/shield/1shield_back",
-		"handle": "item/nbc/shield/1handle"
+		"shield": "nbc/shield/1shield",
+		"shield_back": "nbc/shield/1shield_back",
+		"handle": "nbc/shield/1handle"
 	},
 	"elements": [
 		{

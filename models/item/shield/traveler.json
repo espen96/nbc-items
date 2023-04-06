@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/nbc/shield/traveler",
-		"2": "item/nbc/shield/traveler_back"
+		"1": "nbc/shield/traveler",
+		"2": "nbc/shield/traveler_back"
 	},
 	"elements": [
 		{

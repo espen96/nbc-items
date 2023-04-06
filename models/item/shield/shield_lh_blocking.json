@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "item/nbc/shield/3d/woodshield",
-		"texture": "item/nbc/shield/3d/woodshield"
+		"particle": "nbc/shield/3d/woodshield",
+		"texture": "nbc/shield/3d/woodshield"
 	},
 	"elements": [
 		{

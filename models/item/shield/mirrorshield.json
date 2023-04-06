@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"voxels_palette": "item/nbc/shield/hyliean-1",
-		"mirrorshield2_palette": "item/nbc/shield/mirror2",
-		"texture1": "item/nbc/shield/mirror3"
+		"voxels_palette": "nbc/shield/hyliean-1",
+		"mirrorshield2_palette": "nbc/shield/mirror2",
+		"texture1": "nbc/shield/mirror3"
 	},
 	"elements": [
 		{

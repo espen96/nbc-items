@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/nbc/shield/gerudo",
-		"2": "item/nbc/shield/gerudo_back"
+		"1": "nbc/shield/gerudo",
+		"2": "nbc/shield/gerudo_back"
 	},
 	"elements": [
 		{
