@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "block",
+      "prefix": "block/"
+    },
+    {
+      "type": "directory",
+      "source": "nbc",
+      "prefix": "nbc/"
+    },
+    {
+      "type": "directory",
+      "source": "entity",
+      "prefix": "entity/"
+    }
+  ]
+}
