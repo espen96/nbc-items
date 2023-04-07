@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"7": "littleroom_bugpack:pet_net_yellow",
-		"particle": "littleroom_bugpack:pet_net"
+		"7": "littleroom_bugpack:item/pet_net_yellow",
+		"particle": "littleroom_bugpack:item/pet_net"
 	},
 	"elements": [
 		{

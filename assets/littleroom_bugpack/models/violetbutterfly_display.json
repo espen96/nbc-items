@@ -3,8 +3,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "modelengine:entity/bug_display",
-		"6": "littleroom_bugpack:butterfly_violet",
-		"particle": "littleroom_bugpack:butterfly_blue"
+		"6": "littleroom_bugpack:item/butterfly_violet",
+		"particle": "littleroom_bugpack:item/butterfly_blue"
 	},
 	"elements": [
 		{

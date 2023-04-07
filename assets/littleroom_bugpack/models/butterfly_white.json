@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"5": "littleroom_bugpack:butterfly_white",
-		"particle": "littleroom_bugpack:butterfly_blue"
+		"5": "littleroom_bugpack:item/butterfly_white",
+		"particle": "littleroom_bugpack:item/butterfly_blue"
 	},
 	"elements": [
 		{

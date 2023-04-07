@@ -3,7 +3,7 @@
 	"textures": {
 		"2": "modelengine:entity/ladybug",
 		"3": "modelengine:entity/bug_display",
-		"particle": "littleroom_bugpack:butterfly_blue"
+		"particle": "littleroom_bugpack:item/butterfly_blue"
 	},
 	"elements": [
 		{

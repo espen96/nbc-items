@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "littleroom_bugpack:firefly",
-		"particle": "littleroom_bugpack:firefly"
+		"1": "littleroom_bugpack:item/firefly",
+		"particle": "littleroom_bugpack:item/firefly"
 	},
 	"elements": [
 		{
