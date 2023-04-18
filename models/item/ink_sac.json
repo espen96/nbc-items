@@ -18,6 +18,9 @@
 		{"predicate": {"custom_model_data":12}, "model": "littleroom_bugpack:snail"},
 		{"predicate": {"custom_model_data":13}, "model": "littleroom_bugpack:ladybug"},
 		{"predicate": {"custom_model_data":14}, "model": "littleroom_bugpack:moth_atlas"},
-		{"predicate": {"custom_model_data":15}, "model": "littleroom_bugpack:tarantula"}
+		{"predicate": {"custom_model_data":15}, "model": "littleroom_bugpack:tarantula"},
+		{"predicate": {"custom_model_data":16}, "model": "littleroom_bugpack:worm"},
+		{"predicate": {"custom_model_data":17}, "model": "littleroom_bugpack:pillbug"},
+		{"predicate": {"custom_model_data":18}, "model": "littleroom_bugpack:centipede"}
         ]
 }
