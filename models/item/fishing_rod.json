@@ -5,9 +5,9 @@
     },
     "overrides": [
         { "predicate": { "cast": 1},"model": "item/fishing_rod_cast"},
-	    { "predicate": { "custom_model_data": 1}, "model": "hookshot/hookshot1"},
-		{ "predicate": { "custom_model_data": 1, "cast": 1},"model": "hookshot/hookshot2"},
-	    { "predicate": { "custom_model_data": 2}, "model": "grappling/hookshot1"},
-		{ "predicate": { "custom_model_data": 2, "cast": 1},"model": "grappling/hookshot2"}
+	    { "predicate": { "custom_model_data": 1}, "model": "clawshot/clawshot"},
+		{ "predicate": { "custom_model_data": 1, "cast": 1},"model": "clawshot/clawshot_gone"},
+	    { "predicate": { "custom_model_data": 2}, "model": "clawshot/clawshot_gone"},
+		{ "predicate": { "custom_model_data": 2, "cast": 1},"model": "clawshot/clawshot_gone"}
     ]
 }
