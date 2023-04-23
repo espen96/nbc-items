@@ -1,0 +1,4 @@
+{ "custom.fallensoldier.hurt": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallensoldier/shurt3" }, { "name": "custom/mobs/fallensoldier/shurt2" }, { "name": "custom/mobs/fallensoldier/shurt1" } ], "subtitle": "Fallen Spectre hurt" }, 
+"custom.fallensoldier.death": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallensoldier/sdeath" }, { "name": "custom/mobs/fallensoldier/sdeath2" }, { "name": "custom/mobs/fallensoldier/sdeath3" } ], "subtitle": "Spectral lament", "attenuation_distance": "1"  }, 
+"custom.fallensoldier.gritus": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallensoldier/gritus1" }, { "name": "custom/mobs/fallensoldier/gritus2" } ], "subtitle": "Lost souls cry" }
+}

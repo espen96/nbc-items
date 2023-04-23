@@ -1,0 +1,4 @@
+{ "custom.fallenwarden.spawnb": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenhero/wspawnb" } ], "subtitle": "Spectral Incarnation", "attenuation_distance": "1"  }, 
+"custom.spell.grandslashcast": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/granslashcast1" }, { "name": "custom/spell/fallenhero/granslashcast2" } ], "subtitle": "Soul Shockwave" }, 
+"custom.fallenwarden.death": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenhero/wdeath" } ], "subtitle": "Empty armor falls", "attenuation_distance": "1"  }
+}

@@ -1,0 +1,3 @@
+{ "custom.fallenherald.hurt": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenherald/hhurt1" }, { "name": "custom/mobs/fallenherald/hhurt2" }, { "name": "custom/mobs/fallenherald/hhurt3" } ], "subtitle": "Fallen Herald hurt", "attenuation_distance": "1"  }, 
+"custom.fallenherald.spawnb": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenhero/fallenheraldspawn" } ], "subtitle": "Spectral Incarnation" }
+}

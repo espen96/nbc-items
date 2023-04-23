@@ -1,0 +1,8 @@
+{ "custom.fallenravager.spawnb": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenravager/ravagerarmorspawn" } ], "subtitle": "Armor Resonates", "attenuation_distance": "1"  }, 
+"custom.fallenravager.statuefall": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenravager/armorfall_statue" } ], "subtitle": "Empty armor falls", "attenuation_distance": "1"  }, 
+"custom.spell.ravagefriction": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenravager/ravagefriction1" }, { "name": "custom/mobs/fallenravager/ravagefriction2" } ], "subtitle": "Friction" }, 
+"custom.spell.atk6cast": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenravager/atk6cast1" }, { "name": "custom/mobs/fallenravager/atk6cast2" } ], "subtitle": "Weapon swings violently" },
+"custom.spell.atk6charge": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenravager/atk6overcharge1" }, { "name": "custom/mobs/fallenravager/atk6overcharge2" } ], "subtitle": "Soulfire spell cast" },
+"custom.spell.ravagecast": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenravager/ravagecast2" }, { "name": "custom/mobs/fallenravager/ravagecast1" } ], "subtitle": "Dark spell cast" },
+"custom.fallenravager.death": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenravager/fravagerdeatharmor" } ], "subtitle": "Empty armor falls", "attenuation_distance": "1"  }
+}
