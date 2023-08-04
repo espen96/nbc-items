@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "chess_furniture/black_queen",
-		"particle": "chess_furniture/black_queen"
+		"0": "nbc/chess_furniture/black_queen",
+		"particle": "nbc/chess_furniture/black_queen"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "chess_furniture/white_king",
-		"particle": "chess_furniture/white_king"
+		"0": "nbc/chess_furniture/white_king",
+		"particle": "nbc/chess_furniture/white_king"
 	},
 	"elements": [
 		{

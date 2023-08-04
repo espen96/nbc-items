@@ -12,6 +12,11 @@
     },
     {
       "type": "directory",
+      "source": "guis",
+      "prefix": "guis/"
+    },
+    {
+      "type": "directory",
       "source": "entity",
       "prefix": "entity/"
     }
